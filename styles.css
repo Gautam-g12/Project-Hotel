@@ -416,7 +416,7 @@ body{
     font-size: 1.2rem;
 }
 
-/* Responsive Design */
+/* Responsive Design about hotel */
 @media (max-width: 768px) {
     .about-container {
         flex-direction: column;
@@ -425,7 +425,7 @@ body{
 }
 /* About end */
 
-/* Gallery Section */
+/* Gallery Section chalu*/
 .css-gallery {
     padding: 5rem 5%;
     background: #f9f9f9;
@@ -478,7 +478,7 @@ body{
     opacity: 0.9;
 }
 
-/* Animation Timings */
+/* Animation setting Timings */
 .slide-1 {
     animation-delay: 0s;
 }
@@ -499,7 +499,7 @@ body{
     animation-delay: 10s;
 }
 
-/* Keyframe Animations */
+
 @keyframes imageAnimation {
     0% {
         opacity: 0;
@@ -541,7 +541,7 @@ body{
     }
 }
 
-/* Responsive Adjustments */
+/* Responsive Adjustments gallary ch media querry */
 @media (max-width: 768px) {
     .gallery-container {
         height: 400px;
@@ -646,7 +646,7 @@ body{
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
-/* Responsive Design */
+/* Responsive Design  card ch media querry */
 @media (max-width: 992px) {
     .contact-container {
         grid-template-columns: 1fr;
